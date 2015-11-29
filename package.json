@@ -1,6 +1,6 @@
 {
   "name": "bower",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "this is my node lib",
   "main": "./dist/index.js",
   "scripts": {
