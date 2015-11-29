@@ -1,0 +1,23 @@
+{
+  "name": "bower",
+  "version": "1.0.1",
+  "description": "this is my node lib",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webliving/bower.git"
+  },
+  "keywords": [
+    "node",
+    "es6"
+  ],
+  "author": "webliving",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webliving/bower/issues"
+  },
+  "homepage": "https://github.com/webliving/bower#readme"
+}
