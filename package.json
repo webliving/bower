@@ -1,5 +1,5 @@
 {
-  "name": "bower",
+  "name": "mytool",
   "version": "1.0.4",
   "description": "this is my node lib",
   "main": "./dist/index.js",
