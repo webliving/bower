@@ -1,6 +1,6 @@
 {
   "name": "bower",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "this is my node lib",
   "main": "./dist/index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/webliving/bower/issues"
   },
-  "homepage": "https://github.com/webliving/bower#readme"
+  "homepage": "https://github.com/webliving/bower#readme",
+  "dependencies": {
+    "mytool": "^1.0.0"
+  }
 }
