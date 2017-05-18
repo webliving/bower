@@ -1,6 +1,6 @@
 {
   "name": "mytool",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "this is my node lib",
   "main": "./dist/index.js",
   "scripts": {
@@ -20,6 +20,5 @@
     "url": "https://github.com/webliving/bower/issues"
   },
   "homepage": "https://github.com/webliving/bower#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
