@@ -1,6 +1,6 @@
 {
   "name": "mytool",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "this is my node lib",
   "main": "./dist/index.js",
   "scripts": {
