@@ -4,4 +4,4 @@
 
 var http = require('./tool');
 
-var version = 'hello anhui';
+var version = 'hello china';
