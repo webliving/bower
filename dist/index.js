@@ -4,4 +4,4 @@
 
 var http = require('./tool');
 
-var version = '1.0.7';
+var version = '1.0.8';
