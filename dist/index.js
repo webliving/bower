@@ -4,4 +4,4 @@
 
 var http = require('./tool');
 
-var version = '1.0.10';
+var version = 'hello anhui';
