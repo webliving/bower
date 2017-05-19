@@ -4,4 +4,4 @@
 
 var http = require('./tool');
 
-var version = "feat: feat(pencil): add 'commit validate' option";
+var version = "feat: feat(pencil): add 'yes validate' option";
