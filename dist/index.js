@@ -4,4 +4,4 @@
 
 var http = require('./tool');
 
-var version = "feat: feat(pencil): add 'yes validate' option";
+var version = "doc: feat(pencil): add 'doc";
