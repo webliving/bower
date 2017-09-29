@@ -1,5 +1,10 @@
-<a name="1.0.13"></a>
-## [1.0.13](https://github.com/webliving/bower/compare/v1.0.15...v1.0.13) (2017-05-19)
+<a name="1.0.17"></a>
+## [1.0.17](https://github.com/webliving/bower/compare/v1.0.16...v1.0.17) (2017-09-29)
+
+
+
+<a name="1.0.16"></a>
+## [1.0.16](https://github.com/webliving/bower/compare/v1.0.15...v1.0.16) (2017-09-29)
 
 
 
