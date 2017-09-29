@@ -1,3 +1,13 @@
+<a name="1.0.23"></a>
+## [1.0.23](https://github.com/webliving/bower/compare/v1.0.22...v1.0.23) (2017-09-29)
+
+
+### Features
+
+* :dancer: 测试 ([0a39b8d](https://github.com/webliving/bower/commit/0a39b8d))
+
+
+
 <a name="1.0.22"></a>
 ## [1.0.22](https://github.com/webliving/bower/compare/v1.0.21...v1.0.22) (2017-09-29)
 
