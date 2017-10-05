@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.5.0"></a>
+# [1.5.0](https://github.com/webliving/bower/compare/v1.5.0-2...v1.5.0) (2017-10-05)
+
+
+### Features
+
+* **parser:** 测试 300 ([529b7b0](https://github.com/webliving/bower/commit/529b7b0))
+
+
+
 <a name="1.5.0-2"></a>
 # [1.5.0-2](https://github.com/webliving/bower/compare/v1.5.0-1...v1.5.0-2) (2017-10-05)
 
