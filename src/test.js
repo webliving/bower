@@ -3,3 +3,4 @@
  */
 
 var a =23423234;
+var PI = Math.PI;
