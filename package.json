@@ -5,6 +5,7 @@
   "main": "./dist/index.js",
   "scripts": {
     "release": "standard-version",
+    "release-next": "standard-version --prerelease next",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
