@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.1"></a>
+## [2.0.1](https://github.com/webliving/bower/compare/v2.0.0...v2.0.1) (2017-10-06)
+
+
+### Features
+
+* **style:** 测试 9999 ([f303762](https://github.com/webliving/bower/commit/f303762))
+* **ui:** 测试 8888 ([ab33cb5](https://github.com/webliving/bower/commit/ab33cb5))
+
+
+### BREAKING CHANGES
+
+* **style:** 破坏性更改 9999
+* **ui:** 破坏性更改 8888
+
+
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/webliving/bower/compare/v1.5.0...v2.0.0) (2017-10-05)
 
