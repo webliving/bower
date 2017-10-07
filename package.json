@@ -6,6 +6,7 @@
   "scripts": {
     "release": "standard-version",
     "release-next": "standard-version --prerelease next",
+    "release:next": "npm run release -- --release-as patch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

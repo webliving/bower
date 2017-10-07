@@ -4,4 +4,5 @@
 
 var a =777777;
 var b = 1000;
+var c = 1000;
 var PI = Math.PI;
